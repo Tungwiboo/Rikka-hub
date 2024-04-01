@@ -1,1 +1,1 @@
-# Rikka-hub
+# Rikka
